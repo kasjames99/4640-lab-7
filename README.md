@@ -6,7 +6,7 @@ See D2L for lab instructions
 
 Generate new keys: ssh-keygen -t rsa -b 2048 -f ~/.ssh/aws -N ""
 
-    -This command generates the aws public and private keys in the directory ~/.ssh
+    This command generates the aws public and private keys in the directory ~/.ssh
     
 Run Terraform config and apply:
 
